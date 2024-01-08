@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hello World, I'm William Elesbão 👋
+  print ("Hello World"), I'm William Elesbão 👋
 </h1>
 
 <div align="center" >
-  <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+<!--   <img height="350em" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/> -->
+  <img height="350em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
 </div>
 
 <h3 align="center">
