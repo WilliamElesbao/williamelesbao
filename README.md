@@ -28,7 +28,7 @@
 
 ### ⚡ &nbsp;Database
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;-->
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
 ## 📌 &nbsp;Pinned Repositories
