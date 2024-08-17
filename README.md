@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-  Beginner Developer • Self-taught
+  FullStack Developer • Self-taught
 </h3>
 
 ## 🛠 &nbsp;Tech Stack
