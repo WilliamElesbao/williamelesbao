@@ -68,27 +68,27 @@
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/Pokedex-Trilha-JS-Developer">
-          <img src="https://icon-library.com/images/pokedex-icon/pokedex-icon-19.jpg" />
+        <a href="https://github.com/WilliamElesbao/JokeApp">
+          <img src="https://www.svgheart.com/wp-content/uploads/2023/10/creepy-joker_313-430-min.png" />
         </a>
       </td>
 			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/Pokedex-Trilha-JS-Developer">
-          <h3>Pokédex</h3>
-          <p>Desenvolvido uma Pokédex em JavaScript a partir das informações dos pokémons que foram obtidas de uma API pública, que fornece detalhes como nome, número da pokédex, tipos, habilidades e imagens.</p>
+        <a href="https://github.com/WilliamElesbao/JokeApp">
+          <h3>JokeApp</h3>
+          <p>O JokeApp é um projeto desenvolvido com o intuito de praticar e explorar algumas das principais tecnologias modernas de desenvolvimento web. Ele combina o poder de um backend em NestJS com uma API GraphQL, junto com uma interface de usuário desenvolvida em Next.js junto às bibliotecas de componentes como NextUI e AceternityUI.</p>
         </a>
 			</td>
 		</tr>
     <tr>
 			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/Python-Flask-API-RESTful">
-          <img src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1628015119369-OY4TV3XJJ53ECO0W2OLQ/Python+API+Training+Logo.png?format=1000w" />
+        <a href="https://github.com/WilliamElesbao/NextJS-CIOS" target="_blank">
+          <img src="https://github.com/WilliamElesbao/NextJS-CIOS/blob/main/docs/cios-logo.png"/>
         </a>
       </td>
 			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/Python-Flask-API-RESTful">
-          <h3>Flask - API</h3>
-          <p>desenvolvido uma API usando o framework Flask para realizar operações CRUD (Create, Read, Update, Delete).</p>
+        <a href="https://github.com/WilliamElesbao/NextJS-CIOS">
+          <h3>Check In & Out System</h3>
+          <p>Projeto para controle de entrada e saída de equipamentos da TI visando manter a relação das movimentações destes equipamentos relacionando-os com os funcionários.</p>
         </a>
 			</td>
 		</tr>
