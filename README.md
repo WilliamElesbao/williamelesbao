@@ -1,5 +1,5 @@
 <h1 align="center">
-  print ("Hello World"), I'm William Elesbão 👋
+  console.log('Hello World'), // I'm William Elesbão 👋
 </h1>
 
 <div align="center" >
