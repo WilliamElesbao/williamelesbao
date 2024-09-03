@@ -49,23 +49,10 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
+			<th colspan="2" width="2000">&nbsp;Projetos Recentes</th>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/Angular-Sistema-de-Reserva">
-          <img src="https://cdn-icons-png.flaticon.com/128/1476/1476999.png" />
-        </a>
-      </td>
-			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/Angular-Sistema-de-Reserva">
-          <h3>Sistema de Reserva</h3>
-          <p>Um sistema de reserva para gerenciar o agendamento de mesas em um ambiente de trabalho.</p>
-        </a>
-			</td>
-		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
         <a href="https://github.com/WilliamElesbao/JokeApp">
