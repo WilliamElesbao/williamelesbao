@@ -50,7 +50,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000">&nbsp;Projetos Recentes</th>
+			<th colspan="2" width="2000">&nbsp;Recent Projects</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -63,7 +63,7 @@
 			<td valign="top">
         <a href="https://github.com/WilliamElesbao/JokeApp">
           <h3>JokeApp</h3>
-          <p>O JokeApp é um projeto desenvolvido com o intuito de praticar e explorar algumas das principais tecnologias modernas de desenvolvimento web. Ele combina o poder de um backend em NestJS com uma API GraphQL, junto com uma interface de usuário desenvolvida em Next.js junto às bibliotecas de componentes como NextUI e AceternityUI.</p>
+          <p>JokeApp is a project developed to practice and explore some of the leading modern web development technologies. It combines the power of a NestJS backend with a GraphQL API and a user interface built with Next.js using component libraries like NextUI and AceternityUI.</p>
         </a>
 			</td>
 		</tr>
@@ -76,7 +76,7 @@
 			<td valign="top">
         <a href="https://github.com/WilliamElesbao/NextJS-CIOS">
           <h3>Check In & Out System</h3>
-          <p>Projeto para controle de entrada e saída de equipamentos da TI visando manter a relação das movimentações destes equipamentos relacionando-os com os funcionários.</p>
+          <p>A project for tracking the entry and exit of IT equipment, aiming to maintain a record of these movements while associating them with employees.</p>
         </a>
 			</td>
 		</tr>
