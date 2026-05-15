@@ -14,18 +14,20 @@
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;FullStack
+
 ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 ### 👩‍💻 &nbsp;ORM
+
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white)&nbsp;
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)&nbsp;
-
 
 ### 👩‍💻 &nbsp;Back-End
 
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp; -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp; -->
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)&nbsp;
@@ -49,6 +51,7 @@
 ### ⚡ &nbsp;Database
 
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;-->
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
@@ -64,13 +67,25 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
+        <a href="https://github.com/WilliamElesbao/ignite-starter">
+        </a>
+      </td>
+			<td valign="top">
+        <a href="https://github.com/WilliamElesbao/JokeApp">
+          <h3><a href="https://github.com/WilliamElesbao/ignite-starter">Ignite Starter</a></h3>
+          <p>Ignite Starter is a scalable fullstack monorepo starter for teams that want to bootstrap new products with a production-oriented baseline. It provides a ready-to-extend foundation for web, API, database, email, testing, and CI/CD workflows.</p>
+        </a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
         <a href="https://github.com/WilliamElesbao/JokeApp">
           <img src="https://www.svgheart.com/wp-content/uploads/2023/10/creepy-joker_313-430-min.png" />
         </a>
       </td>
 			<td valign="top">
         <a href="https://github.com/WilliamElesbao/JokeApp">
-          <h3>JokeApp</h3>
+          <h3><a href="https://github.com/WilliamElesbao/JokeApp">JokeApp</a></h3>
           <p>JokeApp is a project developed to practice and explore some of the leading modern web development technologies. It combines the power of a NestJS backend with a GraphQL API and a user interface built with Next.js using component libraries like NextUI and AceternityUI.</p>
         </a>
 			</td>
@@ -83,7 +98,7 @@
       </td>
 			<td valign="top">
         <a href="https://github.com/WilliamElesbao/NextJS-CIOS">
-          <h3>Check In & Out System</h3>
+          <h3><a href="https://github.com/WilliamElesbao/NextJS-CIOS" target="_blank">Check In & Out System</a></h3>
           <p>A project for tracking the entry and exit of IT equipment, aiming to maintain a record of these movements while associating them with employees.</p>
         </a>
 			</td>
@@ -93,10 +108,16 @@
 
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=126BC4&color:FFF)](https://www.linkedin.com/in/william-elesbao/) [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=FFF&color:FFF)](https://github.com/WilliamElesbao) [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335&color:FFF)](mailto:william.elesbao.2000@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=D33B58&color:FFF)](https://www.instagram.com/willtubetech/) [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FE0000&color:FFF)](https://www.youtube.com/@willtubetech) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=126BC4&color:FFF)](https://www.linkedin.com/in/william-elesbao/)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=FFF&color:FFF)](https://github.com/WilliamElesbao)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335&color:FFF)](mailto:william.elesbao.2000@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=D33B58&color:FFF)](https://www.instagram.com/willtubetech/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FE0000&color:FFF)](https://www.youtube.com/@willtubetech)
+
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamElesbao&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamElesbao&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamElesbao&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamElesbao&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)
 <br>
 
 <!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=williamelesbao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
