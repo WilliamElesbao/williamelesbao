@@ -67,14 +67,24 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/ignite-starter">
+        <a href="https://github.com/WilliamElesbao/next-starter">
+			 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
         </a>
       </td>
 			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/JokeApp">
+          <h3><a href="https://github.com/WilliamElesbao/next-starter">Next Starter</a></h3>
+          <p>This repository is a single Next.js app with server actions, Prisma-backed PostgreSQL, Better Auth, Stripe billing, and React Email templates. It is designed to keep platform concerns centralized while features live in their own modules.</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+        <a href="https://github.com/WilliamElesbao/ignite-starter">
+			<img src="https://static.vecteezy.com/system/resources/previews/014/621/204/non_2x/simple-rocket-logo-rocket-logo-minimalist-rocket-vector.jpg" />
+        </a>
+      </td>
+			<td valign="top">
           <h3><a href="https://github.com/WilliamElesbao/ignite-starter">Ignite Starter</a></h3>
           <p>Ignite Starter is a scalable fullstack monorepo starter for teams that want to bootstrap new products with a production-oriented baseline. It provides a ready-to-extend foundation for web, API, database, email, testing, and CI/CD workflows.</p>
-        </a>
 			</td>
 		</tr>
 		<tr>
@@ -84,10 +94,8 @@
         </a>
       </td>
 			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/JokeApp">
           <h3><a href="https://github.com/WilliamElesbao/JokeApp">JokeApp</a></h3>
           <p>JokeApp is a project developed to practice and explore some of the leading modern web development technologies. It combines the power of a NestJS backend with a GraphQL API and a user interface built with Next.js using component libraries like NextUI and AceternityUI.</p>
-        </a>
 			</td>
 		</tr>
     <tr>
@@ -97,10 +105,8 @@
         </a>
       </td>
 			<td valign="top">
-        <a href="https://github.com/WilliamElesbao/NextJS-CIOS">
           <h3><a href="https://github.com/WilliamElesbao/NextJS-CIOS" target="_blank">Check In & Out System</a></h3>
           <p>A project for tracking the entry and exit of IT equipment, aiming to maintain a record of these movements while associating them with employees.</p>
-        </a>
 			</td>
 		</tr>
 	</tbody>
