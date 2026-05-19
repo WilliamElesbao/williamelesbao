@@ -90,7 +90,7 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
         <a href="https://github.com/WilliamElesbao/JokeApp">
-          <img src="https://www.svgheart.com/wp-content/uploads/2023/10/creepy-joker_313-430-min.png" />
+          <img src="https://graphqleditorcms.fra1.cdn.digitaloceanspaces.com/graphqleditorcms/graphql_page/graphql-1732132118455.png" />
         </a>
       </td>
 			<td valign="top">
