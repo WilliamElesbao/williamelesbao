@@ -1,134 +1,176 @@
-<h1 align="center">
-  console.log('Hello World'), // I'm William Elesbão 👋
-</h1>
+<div align="center">
 
-<div align="center" >
-<!--   <img height="350em" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/> -->
-  <img height="350em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+<img src="./terminal.svg" width="100%"/>
+
+<br>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamElesbao)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0F1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:william.elesbao.2000@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0F1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/willtubetech/)
+
 </div>
 
-<h3 align="center">
-  FullStack Developer • Self-taught
-</h3>
+## 🧩 Core & Frontend
 
-## 🛠 &nbsp;Tech Stack
+<div align="center">
 
-### 👩‍💻 &nbsp;FullStack
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1E?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0A0F1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A0F1E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0A0F1E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-0A0F1E?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![React Native](https://img.shields.io/badge/React%20Native-0A0F1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0A0F1E?style=for-the-badge&logo=expo&logoColor=white)
 
-![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+</div>
 
-### 👩‍💻 &nbsp;ORM
+## ⚙️ Backend & Data
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white)&nbsp;
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)&nbsp;
+<div align="center">
 
-### 👩‍💻 &nbsp;Back-End
+![Bun](https://img.shields.io/badge/Bun-0A0F1E?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0A0F1E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0A0F1E?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0A0F1E?style=for-the-badge&logo=elysia&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-0A0F1E?style=for-the-badge&logo=graphql&logoColor=E10098)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1E?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F1E?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0A0F1E?style=for-the-badge&logo=sqlite&logoColor=4FC3F7)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0A0F1E?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Redis](https://img.shields.io/badge/Redis-0A0F1E?style=for-the-badge&logo=redis&logoColor=FF4438)
+![Prisma](https://img.shields.io/badge/Prisma-0A0F1E?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-0A0F1E?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![TypeORM](https://img.shields.io/badge/TypeORM-0A0F1E?style=for-the-badge&logo=typeorm&logoColor=FE0803)
 
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp; -->
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp; -->
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Bun](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)&nbsp;
-[Elysia](https://elysiajs.com/)
+## ☁️ Cloud, DevOps & Tooling
 
-### 🎨 &nbsp;Front-end
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-![ReactQuery](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A0F1E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0A0F1E?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-0A0F1E?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/Vercel-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A0F1E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A0F1E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Drone](https://img.shields.io/badge/Drone-0A0F1E?style=for-the-badge&logo=drone&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-0A0F1E?style=for-the-badge&logo=sonarqubecloud&logoColor=4E9BCD)
+<br>
+![Git](https://img.shields.io/badge/Git-0A0F1E?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0A0F1E?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A0F1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/Jira-0A0F1E?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Trello](https://img.shields.io/badge/Trello-0A0F1E?style=for-the-badge&logo=trello&logoColor=0052CC)
+![Slack](https://img.shields.io/badge/Slack-0A0F1E?style=for-the-badge&logo=slack&logoColor=white)
 
-### 📱 &nbsp;Mobile
+</div>
 
-![Expo](https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white)
+## 🏛️ Architecture & Engineering Practices
 
-### ⚡ &nbsp;Database
+<div align="center">
 
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;-->
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1E3A8A?style=for-the-badge)
+![Hexagonal](https://img.shields.io/badge/Hexagonal-1D4ED8?style=for-the-badge)
+![Feature-Based](https://img.shields.io/badge/Feature--Based-2563EB?style=for-the-badge)
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-3B82F6?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-60A5FA?style=for-the-badge)
+<br>
+![Scrum](https://img.shields.io/badge/Scrum-0A0F1E?style=for-the-badge&logo=scrumalliance&logoColor=3B82F6)
+![Kanban](https://img.shields.io/badge/Kanban-0A0F1E?style=for-the-badge&logo=notion&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-0A0F1E?style=for-the-badge&logo=target&logoColor=38BDF8)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
+</div>
 
-## 📌 &nbsp;Pinned Repositories
+---
 
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;Recent Projects</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/next-starter">
-			 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
+## 🚀 Project Showcase
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Leko</h3>
+      <p align="center">The first social network for athletes, coaches and local communities — connecting beginners and professionals with the right training partners and the tools to reach real results. Delivered as a cross-platform mobile product.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Expo-0A0F1E?style=for-the-badge&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/iOS-0A0F1E?style=for-the-badge&logo=apple&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-0A0F1E?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+        <br><br>
+        <a href="https://leko.sport/">
+          <img src="https://img.shields.io/badge/Explore-2563EB?style=for-the-badge"/>
         </a>
-      </td>
-			<td valign="top">
-          <h3><a href="https://github.com/WilliamElesbao/next-starter">Next Starter</a></h3>
-          <p>This repository is a single Next.js app with server actions, Prisma-backed PostgreSQL, Better Auth, Stripe billing, and React Email templates. It is designed to keep platform concerns centralized while features live in their own modules.</p>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Ignite Starter</h3>
+      <p align="center">A scalable fullstack monorepo starter that lets teams bootstrap new products on a production-oriented baseline — web, API, database, email, testing and CI/CD pre-wired and ready to extend.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bun-0A0F1E?style=for-the-badge&logo=bun&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Turborepo-0A0F1E?style=for-the-badge&logo=turborepo&logoColor=FF1E56"/>
+        <img src="https://img.shields.io/badge/ElysiaJS-0A0F1E?style=for-the-badge&logo=elysia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-0A0F1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-0A0F1E?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
+        <img src="https://img.shields.io/badge/Docker-0A0F1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+        <br><br>
         <a href="https://github.com/WilliamElesbao/ignite-starter">
-			<img src="https://static.vecteezy.com/system/resources/previews/014/621/204/non_2x/simple-rocket-logo-rocket-logo-minimalist-rocket-vector.jpg" />
+          <img src="https://img.shields.io/badge/Explore-2563EB?style=for-the-badge&logo=github"/>
         </a>
-      </td>
-			<td valign="top">
-          <h3><a href="https://github.com/WilliamElesbao/ignite-starter">Ignite Starter</a></h3>
-          <p>Ignite Starter is a scalable fullstack monorepo starter for teams that want to bootstrap new products with a production-oriented baseline. It provides a ready-to-extend foundation for web, API, database, email, testing, and CI/CD workflows.</p>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/JokeApp">
-          <img src="https://graphqleditorcms.fra1.cdn.digitaloceanspaces.com/graphqleditorcms/graphql_page/graphql-1732132118455.png" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Next.js Starter</h3>
+      <p align="center">A single Next.js application with server actions, Prisma-backed PostgreSQL, Better Auth, Stripe billing and React Email templates — platform concerns centralized while features remain isolated in their own modules.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bun-0A0F1E?style=for-the-badge&logo=bun&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-0A0F1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-0A0F1E?style=for-the-badge&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-0A0F1E?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
+        <img src="https://img.shields.io/badge/Docker-0A0F1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+        <br><br>
+        <a href="https://github.com/WilliamElesbao/next-starter">
+          <img src="https://img.shields.io/badge/Explore-2563EB?style=for-the-badge&logo=github"/>
         </a>
-      </td>
-			<td valign="top">
-          <h3><a href="https://github.com/WilliamElesbao/JokeApp">JokeApp</a></h3>
-          <p>JokeApp is a project developed to practice and explore some of the leading modern web development technologies. It combines the power of a NestJS backend with a GraphQL API and a user interface built with Next.js using component libraries like NextUI and AceternityUI.</p>
-			</td>
-		</tr>
-    <tr>
-			<td align="center" valign="top" width="80"><br />
-        <a href="https://github.com/WilliamElesbao/NextJS-CIOS" target="_blank">
-          <img src="https://github.com/WilliamElesbao/NextJS-CIOS/blob/main/docs/cios-logo.png"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">C.I.O.S</h3>
+      <p align="center">A platform for tracking the entry and exit of IT equipment, maintaining a reliable audit trail of these movements and associating each one with the responsible employee.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-0A0F1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-0A0F1E?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+        <br><br>
+        <a href="https://github.com/WilliamElesbao/NextJS-CIOS">
+          <img src="https://img.shields.io/badge/Explore-2563EB?style=for-the-badge&logo=github"/>
         </a>
-      </td>
-			<td valign="top">
-          <h3><a href="https://github.com/WilliamElesbao/NextJS-CIOS" target="_blank">Check In & Out System</a></h3>
-          <p>A project for tracking the entry and exit of IT equipment, aiming to maintain a record of these movements while associating them with employees.</p>
-			</td>
-		</tr>
-	</tbody>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<h3 align="left">Connect with me</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=126BC4&color:FFF)](https://www.linkedin.com/in/william-elesbao/)
-[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=FFF&color:FFF)](https://github.com/WilliamElesbao)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335&color:FFF)](mailto:william.elesbao.2000@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=D33B58&color:FFF)](https://www.instagram.com/willtubetech/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FE0000&color:FFF)](https://www.youtube.com/@willtubetech)
+---
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamElesbao&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamElesbao&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WilliamElesbao&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly" height="160em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamElesbao&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832" height="160em"/>
+		
+</div>
+
 <br>
 
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=williamelesbao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=williamelesbao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=williamelesbao&color=000000&style=for-the-badge&label=Views)
+
+</div>
 
 <details align="left">
   <summary></summary> 
