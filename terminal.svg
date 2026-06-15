@@ -51,7 +51,7 @@
   <text class="name2" x="35" y="183" font-family="Courier New, monospace" font-size="58" font-weight="bold" fill="#3B82F6" letter-spacing="6">ELESBÃO</text>
 
   <!-- Subtitle -->
-  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#7C93C8" letter-spacing="1">Senior Full-Stack Software Engineer · Self-taught</text>
+  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#7C93C8" letter-spacing="1">Full-Stack Software Engineer</text>
 
   <!-- Divider -->
   <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#12233D" stroke-width="1"/>
