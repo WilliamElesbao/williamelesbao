@@ -4,7 +4,7 @@
 
 <br>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-elesbao/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamElesbao)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0F1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:william.elesbao.2000@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0F1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/willtubetech/)
@@ -94,15 +94,16 @@
     <td width="50%">
       <h3 align="center">Leko</h3>
       <p align="center">The first social network for athletes, coaches and local communities — connecting beginners and professionals with the right training partners and the tools to reach real results. Delivered as a cross-platform mobile product.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Expo-0A0F1E?style=for-the-badge&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/iOS-0A0F1E?style=for-the-badge&logo=apple&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android-0A0F1E?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+      <div align="center">
+		  
+![Expo](https://img.shields.io/badge/Expo-0A0F1E?style=for-the-badge&logo=expo&logoColor=white)
+[![iOS](https://img.shields.io/badge/iOS-0A0F1E?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/leko-%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%B8-%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81/id6755192183)
+[![Android](https://img.shields.io/badge/Android-0A0F1E?style=for-the-badge&logo=android&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=sport.leko.app)
         <br><br>
         <a href="https://leko.sport/">
           <img src="https://img.shields.io/badge/Explore-2563EB?style=for-the-badge"/>
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%">
       <h3 align="center">Ignite Starter</h3>
@@ -123,7 +124,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Next.js Starter</h3>
+      <h3 align="center">Next Starter</h3>
       <p align="center">A single Next.js application with server actions, Prisma-backed PostgreSQL, Better Auth, Stripe billing and React Email templates — platform concerns centralized while features remain isolated in their own modules.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bun-0A0F1E?style=for-the-badge&logo=bun&logoColor=white"/>
