@@ -53,6 +53,7 @@
 ![AWS](https://img.shields.io/badge/AWS-0A0F1E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0A0F1E?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/Firebase-0A0F1E?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0A0F1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Vercel](https://img.shields.io/badge/Vercel-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0A0F1E?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A0F1E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
